@@ -1,4 +1,5 @@
 # vue-file-slice
+大文件切片上传，大文件断点上传，大文件分片上传
 laravel8+vue2 大文件切片上传（Laravel8+Vue2 Large File Slice Upload）
 
 php仓库地址：
